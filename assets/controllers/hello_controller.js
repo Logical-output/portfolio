@@ -1,4 +1,5 @@
 import { Controller } from '@hotwired/stimulus';
+import axios from 'axios';
 
 /*
  * This is an example Stimulus controller!
